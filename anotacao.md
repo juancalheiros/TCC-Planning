@@ -3,11 +3,6 @@
 
     -Quais projetos vamos fazer {
         - juan {
-            * energia solar: otimizando aplicações da industria 4.0{
-                positivos: fácil implementação
-                negativos: custo da placa,  custo de bateria/gerador
-                obs: O que utilizamos no nosso dia-a-dia que poderia ser "convertido" para energia solar?
-            }
             * rede neurais aplicada à leitura de mercado financeiro e projeções futuras de investimentos em ações{
                 positivo: flexibilizaçao/ auxilio para tomada de decisões 
                 negativo: variáveis que são voláteis e podem mudar drasticamente o resultado final.
