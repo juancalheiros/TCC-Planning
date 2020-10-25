@@ -1,7 +1,5 @@
-# TCC-Planning
 
-
-Reunião de Brainstorming 09/10/2020{
+# Reunião de Brainstorming 09/10/2020{
 
     -Quais projetos vamos fazer {
 
@@ -79,7 +77,6 @@ Reunião de Brainstorming 09/10/2020{
                 - ReactNative
                 - Booststrap
             }
-
         }
         Banco de Dados{
             - Mysql
@@ -113,6 +110,5 @@ Reunião de Brainstorming 09/10/2020{
         - XP
         - FDD
         - TDD
-    }
-    
+    }  
 }
