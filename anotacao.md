@@ -1,41 +1,44 @@
 
-# Reunião de Brainstorming 09/10/2020{
+# Reunião de Brainstorming 10/12/2020{
 
-    -Quais projetos vamos fazer {
-        - juan {
-            * rede neurais aplicada à leitura de mercado financeiro e projeções futuras de investimentos em ações{
-                positivo: flexibilizaçao/ auxilio para tomada de decisões 
-                negativo: variáveis que são voláteis e podem mudar drasticamente o resultado final.
-                obs: criar modelo matemático para analise de variaveis complexa.
-                    -noticias relacionadas 
-                    -cotação atual 
-                    -historico de cotação
-                      -balanço patrimonial
-                    -estimativa de lucro do usuario
-            }
-            * blockchain uma maneira segura para criptografia e realizar criptoanalise{
-                positivo: nova forma de fazer criptografia 
-                negativo: curva de aprenzizado longa
-                obs:
-            }
-        }                       
-        - Nathaly {
-            * Um aplicativo de recomendação de presente{
-                positivo: posso comprar presente de forma facil para os meus amiguxos, conseguir estudar toda a stack de aplicações para um software, protótipo básico de machine learning, APIs, banco de dados.
-                negativo: 
-                obs: muitas ferramentas integradas, estudar sobre o que a pessoa pesquisa na internet e replicar isso em sugestões.
-            }
-        }
-        - Misael {
+    -Projeto {
            * Aplicativo para controlar medicamentos para pessoas de Terceira idade: Alertas de medicamentos{
                 positivo: Utilidade/ facilidade no dia a dia das pessoas,
                 negativo:
-                obs: muitas ferramentas integradas, estudo de usabilidade para idosos, controle por voz de preferência! Integração com smartwacth
-           }  
+                obs: muitas ferramentas integradas, estudo de usabilidade para idosos, controle por voz de preferência! Integração com smartwacth 
         }
     }
-    Insiths: Padrão de comportamento, rede neural 
-    Quais tecnologias usar {
+
+## Próximos passos
+- Como será a arquitetura?
+- Qual banco?
+- Como será o back-end - API BFF Gateway?
+- Qual linguagem será desenvolvido o back, tendo em vista os micros serviços?
+- Qual Framework?
+
+
+>  Linha de Pesquisa{
+> - Acessibilidade Social 
+> - Entender melhor nosso público alvo "idosos";
+>>   referências bibliograficas{
+>>  -[PPT de acessibilidade](https://drive.google.com/file/d/1KDxAd5yn9ufwzllQAyQjEGM712MDzsuj/view?usp=sharing).
+>>  }
+>}
+
+
+Questionamentos:
+    Terá autenticação de usuário?
+    Como persistir os dados do usuário sem usar banco?
+    Altenticação por "ROLES" (consultar/ cadastrar)?
+
+
+`Microserviços{
+    1-Alerta de medicamento por clientes;
+    2-Informaçãoes dos medicamentos API c/ ANVISA;
+    3-Farmácias próximas;
+}`
+
+``Quais tecnologias usar {
         controle de versão {
             git 
         }
@@ -91,7 +94,9 @@
             - Kubernets
             - Docker
         }
-        Segurança{}
+        Segurança{
+            JWT?
+        }
     }
     Metodologia ageis {
         - Scrum
@@ -100,4 +105,4 @@
         - FDD
         - TDD
     }  
-}
+}``
