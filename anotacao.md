@@ -21,7 +21,7 @@
 > - Acessibilidade Social 
 > - Entender melhor nosso público alvo "idosos";
 >>   referências bibliograficas{
->>  -[PPT de acessibilidade](https://drive.google.com/file/d/1KDxAd5yn9ufwzllQAyQjEGM712MDzsuj/view?usp=sharing).
+>> - [PPT de acessibilidade](https://drive.google.com/file/d/1KDxAd5yn9ufwzllQAyQjEGM712MDzsuj/view?usp=sharing).
 >>  }
 >}
 
