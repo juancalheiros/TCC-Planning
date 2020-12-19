@@ -60,11 +60,11 @@ OBS.: Logar com a conta institucional da Unicarioca
 
 | Título | Links Úteis |
 -------------------------
-[Caso de uso de referência](https://pjbhqxbjgrrityj5z56wk3smzi--www-thoughtworks-com.translate.goog/insights/blog/bff-soundcloud)
-[Referencia-architecture](https://github.com/wso2/reference-architecture/blob/master/api-driven-microservice-architecture.md)
-[buil and distribuibute in flutter](https://medium.com/@levelfivecoder/how-to-build-sign-and-distribute-your-flutter-android-application-using-azure-devops-and-appcenter-965382b85b8b)
-[Configuring Cl/CD with YAML](https://www.azuredevopslabs.com/labs/azuredevops/yaml/#task-3-adding-a-yaml-build-definition)
-[Create your firt pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)
-[Kubernetes](https://kubernetes.io/)
-[DockerHub](https://hub.docker.com/)
-[azure devops](https://azure.microsoft.com/en-us/services/devops/)
+|[Caso de uso de referência](https://pjbhqxbjgrrityj5z56wk3smzi--www-thoughtworks-com.translate.goog/insights/blog/bff-soundcloud)|
+|[Referencia-architecture](https://github.com/wso2/reference-architecture/blob/master/api-driven-microservice-architecture.md)|
+|[buil and distribuibute in flutter](https://medium.com/@levelfivecoder/how-to-build-sign-and-distribute-your-flutter-android-application-using-azure-devops-and-appcenter-965382b85b8b)|
+|[Configuring Cl/CD with YAML](https://www.azuredevopslabs.com/labs/azuredevops/yaml/#task-3-adding-a-yaml-build-definition)|
+|[Create your firt pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)|
+|[Kubernetes](https://kubernetes.io/)|
+|[DockerHub](https://hub.docker.com/)|
+|[azure devops](https://azure.microsoft.com/en-us/services/devops/)|
